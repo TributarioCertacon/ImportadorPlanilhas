@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guilherme.campos\\Downloads\\PRJ_CONSOLIDADOR\\PRJ_CONSOLIDADOR\\PRJ_CONSOLIDADOR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD5116B-F551-4F46-AF25-F324C00E832C}|CShp_MaterialDesing\\PRJ_CONSOLIDADOR.csproj|C:\\Users\\guilherme.campos\\Downloads\\PRJ_CONSOLIDADOR\\PRJ_CONSOLIDADOR\\PRJ_CONSOLIDADOR\\cshp_materialdesing\\views\\leitura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD5116B-F551-4F46-AF25-F324C00E832C}|CShp_MaterialDesing\\PRJ_CONSOLIDADOR.csproj|solutionrelative:cshp_materialdesing\\views\\leitura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD5116B-F551-4F46-AF25-F324C00E832C}|CShp_MaterialDesing\\PRJ_CONSOLIDADOR.csproj|c:\\users\\guilherme.campos\\downloads\\prj_consolidador\\prj_consolidador\\prj_consolidador\\cshp_materialdesing\\controllers\\leituracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD5116B-F551-4F46-AF25-F324C00E832C}|CShp_MaterialDesing\\PRJ_CONSOLIDADOR.csproj|solutionrelative:cshp_materialdesing\\controllers\\leituracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD5116B-F551-4F46-AF25-F324C00E832C}|CShp_MaterialDesing\\PRJ_CONSOLIDADOR.csproj|C:\\Users\\guilherme.campos\\Downloads\\PRJ_CONSOLIDADOR\\PRJ_CONSOLIDADOR\\PRJ_CONSOLIDADOR\\cshp_materialdesing\\models\\supermecado_ayumi\\tb_cat17_extrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD5116B-F551-4F46-AF25-F324C00E832C}|CShp_MaterialDesing\\PRJ_CONSOLIDADOR.csproj|solutionrelative:cshp_materialdesing\\models\\supermecado_ayumi\\tb_cat17_extrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Leitura.cs",
+              "DocumentMoniker": "C:\\Users\\guilherme.campos\\Downloads\\PRJ_CONSOLIDADOR\\PRJ_CONSOLIDADOR\\PRJ_CONSOLIDADOR\\CShp_MaterialDesing\\Views\\Leitura.cs",
+              "RelativeDocumentMoniker": "CShp_MaterialDesing\\Views\\Leitura.cs",
+              "ToolTip": "C:\\Users\\guilherme.campos\\Downloads\\PRJ_CONSOLIDADOR\\PRJ_CONSOLIDADOR\\PRJ_CONSOLIDADOR\\CShp_MaterialDesing\\Views\\Leitura.cs",
+              "RelativeToolTip": "CShp_MaterialDesing\\Views\\Leitura.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAtwEcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:43:32.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TB_CAT17_EXTRATOR.cs",
+              "DocumentMoniker": "C:\\Users\\guilherme.campos\\Downloads\\PRJ_CONSOLIDADOR\\PRJ_CONSOLIDADOR\\PRJ_CONSOLIDADOR\\CShp_MaterialDesing\\Models\\SUPERMECADO_AYUMI\\TB_CAT17_EXTRATOR.cs",
+              "RelativeDocumentMoniker": "CShp_MaterialDesing\\Models\\SUPERMECADO_AYUMI\\TB_CAT17_EXTRATOR.cs",
+              "ToolTip": "C:\\Users\\guilherme.campos\\Downloads\\PRJ_CONSOLIDADOR\\PRJ_CONSOLIDADOR\\PRJ_CONSOLIDADOR\\CShp_MaterialDesing\\Models\\SUPERMECADO_AYUMI\\TB_CAT17_EXTRATOR.cs",
+              "RelativeToolTip": "CShp_MaterialDesing\\Models\\SUPERMECADO_AYUMI\\TB_CAT17_EXTRATOR.cs",
+              "ViewState": "AQIAAMUAAAAAAAAAAAAswNAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T11:40:41.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LeituraController.cs",
+              "DocumentMoniker": "C:\\Users\\guilherme.campos\\Downloads\\PRJ_CONSOLIDADOR\\PRJ_CONSOLIDADOR\\PRJ_CONSOLIDADOR\\CShp_MaterialDesing\\Controllers\\LeituraController.cs",
+              "RelativeDocumentMoniker": "CShp_MaterialDesing\\Controllers\\LeituraController.cs",
+              "ToolTip": "C:\\Users\\guilherme.campos\\Downloads\\PRJ_CONSOLIDADOR\\PRJ_CONSOLIDADOR\\PRJ_CONSOLIDADOR\\CShp_MaterialDesing\\Controllers\\LeituraController.cs",
+              "RelativeToolTip": "CShp_MaterialDesing\\Controllers\\LeituraController.cs",
+              "ViewState": "AQIAAN0CAAAAAAAAAAAMwO8CAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T13:40:26.292Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
